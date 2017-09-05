@@ -4,10 +4,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/eureka-center/pom.xml" />
-        <option value="$PROJECT_DIR$/common/pom.xml" />
-        <option value="$PROJECT_DIR$/user/service/pom.xml" />
-        <option value="$PROJECT_DIR$/ribbon/pom.xml" />
-        <option value="$PROJECT_DIR$/feign/pom.xml" />
         <option value="$PROJECT_DIR$/config-server/pom.xml" />
       </list>
     </option>
